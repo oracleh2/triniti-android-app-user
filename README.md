@@ -4,7 +4,7 @@
 
 ## Установка
 
-Скачайте последний APK файл из раздела [Releases](https://github.com/oracleh2/triniti-android-app/releases).
+Скачайте последний APK файл из раздела [Releases](https://github.com/oracleh2/triniti-android-app-user/releases).
 
 ## Версии
 
